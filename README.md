@@ -4,6 +4,9 @@ PMBOK-5th-rote-memorization-macro
 PMP試験勉強用。  
 各プロセスの内容（インプット、ツールと技法、アウトプット）の丸暗記に役立つexcelマクロです。  
   
+![回答](imageforreadme/answer.png)  
+![答え合わせ](imageforreadme/rightanswer.png)  
+  
   
 ## 概要  
 PMBOKは知識が細かくカテゴライズされており、これを踏まえた上での応用問題が出題されます。  
